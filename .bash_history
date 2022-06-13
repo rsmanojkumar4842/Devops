@@ -170,3 +170,20 @@ sudo -s
 yum install java-1.8.0-openjdk -y
 java --version
 java -version
+ll
+ls -al
+git branch
+touch file x
+touch file y
+touch file 
+ls
+touch file z
+ls
+ll
+git checkout master
+git status
+git add .
+git add  .
+git commit -m "Branch commits"
+git commit -m "Branch commits" .
+git branch
